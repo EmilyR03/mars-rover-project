@@ -1,4 +1,6 @@
-public enum Instructions {
+package Movement;
+
+public enum Instruction {
 
         L, //Left
         R, //Right
